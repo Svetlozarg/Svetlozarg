@@ -3,7 +3,9 @@
 
 <br/>
 
-<img align="center" style="text-align: center; margin: 0 auto;" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div class="display: flex; justify-content: center; align-items: center;">
+<img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
 <br/>
 
