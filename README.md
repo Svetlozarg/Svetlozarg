@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Svetlozar Georgiev</h1>
 <h3 align="center">A passionate full-stack developer from 🇧🇬Bulgaria</h3>
-<img align="left" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br/>
+
+<img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svetlozarg" alt="svetlozarg" /></a> </p>
 
