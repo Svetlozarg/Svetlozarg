@@ -7,6 +7,7 @@
 
 <br/>
 
+<h3 align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svetlozarg" alt="svetlozarg" /></a> </p>
 <br/>
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svetlozarg&show_icons=true&locale=en" alt="svetlozarg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svetlozarg&" alt="svetlozarg" /></p>
+</h3>
